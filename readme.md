@@ -1,7 +1,19 @@
 # 📊 Customer Purchasing Behavior & Sales Optimization in Electronics Market
 
 ## 📌 Project Overview
-This project analyzes electronics market sales data to uncover customer purchasing patterns and identify opportunities for sales growth. Using **Python-based EDA and RFM (Recency, Frequency, Monetary) analysis**, we explore sales trends, customer demographics, order cancellations, and behavioral segmentation to drive data-driven business strategies.
+This project analyzes customer purchasing behavior and sales optimization strategies in the electronics market. Using transaction data from September 2023 to September 2024, the analysis provides insights such as sales trends, customer demographics, order cancellations, correlations between key variables, and customer segmentation using RFM analysis to help improve business strategies.
+
+## 🛠 Technical Specifications
+- **Languages**: Python
+- **Key Libraries**: 
+  - Data Analysis: Pandas
+  - Visualization: Matplotlib, Seaborn
+  - Machine Learning: Scikit-learn
+- **Analytical Techniques**: 
+  - RFM Segmentation
+  - Correlation Heatmaps
+  - Time-Series Decomposition
+- **Data Source**: Kaggle Electronics Sales Dataset
 
 ## 🔍 Key Research Questions
 
@@ -77,17 +89,7 @@ Advanced customer segmentation using Recency, Frequency, Monetary value analysis
   - Design targeted win-back campaigns
   - Offer special discounts to "At Risk" customer segment
 
-## 🛠 Technical Specifications
-- **Languages**: Python
-- **Key Libraries**: 
-  - Data Analysis: Pandas
-  - Visualization: Matplotlib, Seaborn
-  - Machine Learning: Scikit-learn
-- **Analytical Techniques**: 
-  - RFM Segmentation
-  - Correlation Heatmaps
-  - Time-Series Decomposition
-- **Data Source**: Kaggle Electronics Sales Dataset
+
 
 ## 📂 Project Structure
 ```
