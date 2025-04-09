@@ -32,7 +32,16 @@ this project uses the following methods to generate insight:
  -  Sales increased significantly at the beginning of 2024, particularly around the New Year. In the following months, sales became more stable and consistent.
 
 ### 👥 Customer Behavior
-- 
+- The 35–64 age group contributes the most to total sales.
+- The majority of customers are non-loyal (78%), yet the average spend between loyal and non-loyal customers is nearly the same
+- Credit card and PayPal are the most commonly used payment methods by customers.
+- Male and female customers are almost equal in number and show similar product preferences.
+
+### ❌ Order Cancellation
+- In general, the ratio of completed to canceled orders is approximately 67:33.
+- SKUs with higher-priced products tend to have a higher order completion rate.
+- There was a significant spike in order cancellations by payment method during the New Year of 2024, particularly among Credit Card, PayPal, and Bank Transfer users.
+
 ### 1. What are the sales trends for electronics products?
 Detailed investigation into product sales performance and seasonal variations.
 
