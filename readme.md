@@ -15,8 +15,24 @@ This project analyzes customer purchasing behavior and sales optimization strate
   - Time-Series Decomposition
 - **Data Source**: Kaggle Electronics Sales Dataset
 
-## 🔍 Key Research Questions
+## 🛠️ Methods & Analysis
+this project uses the following methods to generate insight:
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualizations using Seaborn, Matplotlib, and Plotly
+- Sales Performance Trends
+- Order Cancellation Analysis
+- Correlation Analysis between key features
+- Customer Segmentation using RFM (Recency, Frequency, Monetary)
 
+ ## 📈 Key Insights
+ ### 🛒 Product & Sales Trends
+ -  Smartphones are the most purchased product category, followed by tablets and laptops.
+ -  Expensive products sell less frequently than cheaper ones, but their ratings vary without a consistent trend.
+ -  Sales increased significantly at the beginning of 2024, particularly around the New Year. In the following months, sales became more stable and consistent.
+
+### 👥 Customer Behavior
+- 
 ### 1. What are the sales trends for electronics products?
 Detailed investigation into product sales performance and seasonal variations.
 
