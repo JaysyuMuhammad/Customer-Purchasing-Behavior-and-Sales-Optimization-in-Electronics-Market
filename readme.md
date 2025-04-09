@@ -42,6 +42,9 @@ this project uses the following methods to generate insight:
 - SKUs with higher-priced products tend to have a higher order completion rate.
 - There was a significant spike in order cancellations by payment method during the New Year of 2024, particularly among Credit Card, PayPal, and Bank Transfer users.
 
+### 📊 RFM-Based Customer Segmentation
+- 
+
 
 
 ## 📂 Project Structure
