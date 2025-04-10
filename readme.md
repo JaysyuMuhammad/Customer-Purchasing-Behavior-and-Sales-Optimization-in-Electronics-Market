@@ -99,14 +99,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 ```
 
-## 🔍 Future Research Directions
-- **Predictive Modeling**: 
-  - Demand forecasting using ARIMA models
-- **Experimental Analysis**:
-  - A/B testing of promotional strategies for RFM segments
-- **Machine Learning Expansion**:
-  - Develop customer churn prediction model
-  - Create recommendation system based on purchasing patterns
+
 
 ## 🤝 Contribution & Collaboration
 - Open to collaborations and improvements
@@ -114,16 +107,12 @@ jupyter notebook notebooks/analysis.ipynb
 - Feedback and suggestions are welcome!
 
 ## 📞 Contact
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-
-## ✨ Key Insights
-**⭐ Critical Takeaway**: Urban millennials represent the highest-value customer segment. By addressing logistics bottlenecks and implementing targeted marketing strategies, the potential revenue boost could reach 15-20%.
+- **Email**: muhammadjaysyu@gmail.com
+- **LinkedIn**: www.linkedin.com/in/jaysyu-muhammad
 
 ## 📝 Notes
 - All visualizations are reproducible via the Jupyter notebook
 - Ensure dataset is placed in `/data` directory before execution
 - Detailed methodology available in the analysis notebook
 
-## 📜 License
-[Choose an appropriate open-source license, e.g., MIT, Apache 2.0]
+
