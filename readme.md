@@ -64,14 +64,12 @@ this project uses the following methods to generate insight:
 ## 📂 Project Structure
 ```
 📦 electronics-sales-analysis
-├── 📂 data
-│   ├── raw.csv               # Original dataset
-│   └── cleaned.csv           # Processed data
+├── 📂 Dataset
+│   ├── Electronic_sales.csv  # Original dataset
 ├── 📂 notebooks
 │   └── analysis.ipynb        # Comprehensive analysis notebook
-├── 📂 reports
+├── 📂 Dashboard
 │   ├── sales_trend.png       # Quarterly sales visualization
-│   └── rfm_heatmap.png       # Customer segment matrix
 └── README.md
 ```
 
@@ -109,10 +107,5 @@ jupyter notebook notebooks/analysis.ipynb
 ## 📞 Contact
 - **Email**: muhammadjaysyu@gmail.com
 - **LinkedIn**: www.linkedin.com/in/jaysyu-muhammad
-
-## 📝 Notes
-- All visualizations are reproducible via the Jupyter notebook
-- Ensure dataset is placed in `/data` directory before execution
-- Detailed methodology available in the analysis notebook
 
 
