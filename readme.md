@@ -3,18 +3,6 @@
 ## 📌 Project Overview
 This project analyzes customer purchasing behavior and sales optimization strategies in the electronics market. Using transaction data from September 2023 to September 2024, the analysis provides insights such as sales trends, customer demographics, order cancellations, correlations between key variables, and customer segmentation using RFM analysis to help improve business strategies.
 
-## 🛠 Technical Specifications
-- **Languages**: Python
-- **Key Libraries**: 
-  - Data Analysis: Pandas
-  - Visualization: Matplotlib, Seaborn
-  - Machine Learning: Scikit-learn
-- **Analytical Techniques**: 
-  - RFM Segmentation
-  - Correlation Heatmaps
-  - Time-Series Decomposition
-- **Data Source**: Kaggle Electronics Sales Dataset
-
 ## 🛠️ Methods & Analysis
 this project uses the following methods to generate insight:
 - Data Cleaning & Preprocessing
