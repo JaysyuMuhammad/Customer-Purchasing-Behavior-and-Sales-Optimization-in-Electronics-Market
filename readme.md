@@ -67,7 +67,7 @@ this project uses the following methods to generate insight:
 ├── 📂 Dataset
 │   └── Electronic_sales.csv  # Original dataset
 │   └── data_sales_electronic # Dataset after analysis
-├── 📂 notebooks
+├── 📂 Notebooks
 │   └── analysis.ipynb        # Comprehensive analysis notebook
 ├── 📂 Dashboard
 │   └── sales_trend.png       # Quarterly sales visualization
