@@ -78,15 +78,19 @@ this project uses the following methods to generate insight:
 ## 🚀 Setup & Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourname/electronics-sales-analysis.git
-cd electronics-sales-analysis
+git clone https://github.com/JaysyuMuhammad/Customer-Purchasing-Behavior-and-Sales-Optimization-in-Electronics-Market.git
+cd Customer-Purchasing-Behavior-and-Sales-Optimization-in-Electronics-Market
 ```
 
 2. Create virtual environment (recommended):
 ```bash
+# Windows
 python -m venv venv
-source venv/bin/activate  # On Unix or MacOS
-# venv\Scripts\activate   # On Windows
+venv\Scripts\activate
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 3. Install dependencies:
