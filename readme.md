@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 4. Run the Jupyter Notebook:
 ```bash
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook Notebooks/analysis.ipynb
 ```
 
 
